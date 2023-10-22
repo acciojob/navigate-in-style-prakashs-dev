@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
 #container{
     background-color: #D3D3D3;
-    padding: 10px;
 }
 
 #list{
@@ -9,10 +8,14 @@
     margin-right: 1rem;
     list-style:none;
     display: flex; 
+	padding: 10px;
+    background-color: #D3D3D3;
 }
 #list>li{
     display: inline;
     margin-right: 1rem;
     list-style:none;
     display: flex; 
+	padding: 10px;
+    background-color: #D3D3D3;
 }
