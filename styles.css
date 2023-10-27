@@ -1,10 +1,10 @@
-#container{
+#nav-bar{
     background-color: #D3D3D3;
-    display: flex; 
     padding: 10px;
 }
 
 li{
+    display: flex; 
     display: inline;
     margin-right: 1rem;
     list-style:none;
